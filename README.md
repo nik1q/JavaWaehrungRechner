@@ -20,4 +20,4 @@ Ein einfacher Währungsrechner, der Wechselkurse von einer API abruft und die Um
 2. Starte das Projekt in Eclipse.
 
 ## Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert.
+Dieses Projekt ist unter der [MIT-Lizenz](LICENSE) lizenziert.
